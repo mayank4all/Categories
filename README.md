@@ -1,2 +1,1 @@
-# Categories
-Category Page of the ongoing development ...
+# CategoriesPage
